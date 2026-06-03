@@ -1,4 +1,5 @@
 module.exports = {
+  "ignorePatterns": ["playwright.config.js", "e2e-tests/**"],
   "env": {
     "browser": true,
     "es6": true,
